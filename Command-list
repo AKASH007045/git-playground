@@ -26,10 +26,10 @@ Paste your copied public key and give it a Title of your choice.
 Add content
 
 #rahul-office account
-     Host github.com-rahul-office
-          HostName github.com
-          User git
-          IdentityFile ~/.ssh/github-rahul-office
+Host github.com-rahul-office
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/github-rahul-office
 
 
 *Step 5* : Cloning GitHub repositories using different accounts
