@@ -22,9 +22,10 @@ Paste your copied public key and give it a Title of your choice.
 
 *Step 4* : Create a Config File and Make Host Entries
 <vi ~/.ssh/config>
+
 Add content
 
-> #rahul-office account
+#rahul-office account
      Host github.com-rahul-office
           HostName github.com
           User git
