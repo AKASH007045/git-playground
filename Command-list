@@ -1,2 +1,9 @@
 1. Command to clone a repo: 
     git clone git@github.com:<username>/git-playground.git
+
+2. Configure Git on local system.
+Step 1 : Create SSH keys for all accounts
+Step 2 : Add SSH keys to SSH Agent
+Step 3 : Add SSH public key to the Github
+Step 4 : Create a Config File and Make Host Entries
+Step 5 : Cloning GitHub repositories using different accounts
